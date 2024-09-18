@@ -1,0 +1,625 @@
+/* Reset default browser styles */
+
+/*  */
+.page1{
+    width: 1440px;
+    position: relative;
+    overflow: hidden;
+}
+header{
+    width: 1911.32px;
+    height: 1161px;
+    top: -49px;
+    left: -4px;
+}
+.nav1{
+    list-style: none;
+    width: 1440px;
+    height: 60px;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links1{
+    width: 245px;
+    height: 24px;
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    
+    position: absolute; /* Cho phép điều chỉnh top/left */
+    top: 18px;
+    left: 165px;
+}
+.nav-links1 li a {
+    color: #505F98;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-decoration: none;
+}
+.home{
+    width: 38px;
+    height: 24px; 
+    position: absolute;
+    left: 0px;
+}
+.about{
+    width: 38px;
+    height: 24px;
+    position: absolute;
+    left: 98px;
+}
+.contact{
+    width: 49px;
+    height: 24px;
+    position: absolute;
+    left: 196px;
+}
+
+    
+
+.logo1{
+    width: 79px;
+    height: 38px;
+    position: absolute; 
+    top: 12px;
+    left: 681px;
+    z-index: 2;
+}
+.landing1{
+    width: 95px;
+    height: 38px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 38px;
+    margin: 0px;
+    text-align: left;
+    color: #37447E;
+    z-index: 2;
+
+}
+
+.buy-btn {
+    background-color: #111B47;
+    padding: 0px;
+    color: #FFFFFF;
+    border: none;
+    width: 160px;
+    height: 26px;
+    position: absolute; /* Cho phép điều chỉnh top/left */
+    top: 18px;
+    left: 1115px;
+    z-index: 2;
+}
+.text{
+    width: 160px;
+    height: 18px;
+    position: absolute; /* Cho phép điều chỉnh top/left */
+    top: 4px;
+    z-index: 2;
+
+}
+.buy-now {
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    margin: 0px;
+    line-height: 18px;
+    z-index: 2;
+}
+.hero-content{
+    width: 539.37px;
+    height: 421px;
+    position: absolute;
+    top: 303px;
+    left: 163.12px;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    z-index: 2;
+}
+.introduce{
+    width: 539.37px;
+    height: 316px;
+    z-index: 2;
+}
+.intro{
+    width: 539px;
+    height: 132px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: left;
+    margin: 0px;
+    z-index: 2;
+}
+.lorem{
+    width: 539px;
+    height: 164px;
+    top: 152px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #505F98;
+    z-index: 2;
+
+}
+.purchase{
+    width: 189.13px;
+    height: 36px;
+    position: absolute;
+    top: 385px;
+    text-decoration: none;
+    padding: 0px;
+    border: 0px;
+    background-color: #111B47;
+    color: #FFFFFF;
+
+} 
+.learn{
+    width: 189.13px;
+    height: 36px;
+    position: absolute;
+    top: 385px;
+    left: 219.15px;
+    text-decoration: none;
+    padding: 0px;
+    border: 0px;
+    background-color: #FFFFFF;
+    border: 2px solid;
+    border-color: #091133;
+    color: #091133;
+    z-index: 2;
+
+
+}
+.hero-content li a{
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+}
+.img1{
+    width: 1490.03px;
+    height: 1161px;
+    position: absolute;
+    top: -49px;
+    left: 417.29px;
+    opacity: 0.8;
+    background-image: transparent;
+    z-index: 1;
+}
+/* hết trang 1 */
+.content{
+    
+    width: 1440px;
+    height: 742px;
+    position: absolute;
+    top: 1110px;
+    left: 0px;
+}
+.LFP1{
+  position: absolute;
+  left: 11.46%;
+  right: 51.04%;
+  top: 27.44%;
+  bottom: 68.15%;
+
+
+}
+.light1{
+    width: 540px;
+    height: 48px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+    margin: 0px;
+}
+.lorem1{
+    width: 540px;
+    height: 140px;
+    top: 64px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #6F7CB2;
+}
+.card1{
+    position: absolute;
+    width: 255px;
+    height: 138px;
+    top: 470px;
+    left: 165px;
+}
+.icon1{
+
+
+    height: 36px;
+    width: 36px;
+    object-fit: cover;
+}
+.title1{
+    width: 255px;
+    height: 26px;
+    position: absolute;
+    margin: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: left;
+}
+.p1{
+    width: 255px;
+    height: 54px;
+    position: absolute;
+    margin: 0px;
+    top: 80px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color:  #5D6970;
+}
+.img2{
+    width: 540px;
+    height: 550px;
+    position: absolute;
+    left: 735px;
+    top: 158px;
+
+}
+
+
+.card2{
+    position: absolute;
+    width: 255px;
+    height: 138px;
+    top: 470px;
+    left: 450px;
+}
+.icon2{
+
+
+    height: 36px;
+    width: 36px;
+    object-fit: cover;
+}
+.title2{
+    width: 255px;
+    height: 26px;
+    position: absolute;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: left;
+    margin: 0px;
+}
+.p2{
+    width: 255px;
+    height: 54px;
+    position: absolute;
+    margin: 0px;
+    top: 80px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color:  #5D6970;
+}
+/* hết trang 2 */
+.cta{
+    width: 1440px;
+    height: 546px;
+    position: absolute;
+    top: 1852px;
+}
+.LFP2{
+    position: absolute;
+    left: 826px;
+    top: 150px;
+    height: 230px;
+    width: 445px;
+}
+.light2{
+    width: 445px;
+    height: 48px;
+    color: #091133;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+    margin: 0px;
+}
+.lorem2{
+    width: 445px;
+    height: 166px;
+    top: 64px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #6F7CB2;
+}
+.purchasenow1{
+    
+    background: #111B47;
+    width: 150px;
+    height: 32px;
+    position: absolute;
+    top: 440px;
+    left: 826px;
+}
+.texttext1{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 2px;
+}
+.img3{
+
+    width: 540px;
+    height: 480px;
+    position: absolute;
+    left: 150px;
+   
+    
+}
+/* hết trang 3*/
+.pricing{
+    width: /*2546.93px;*/ 1440px;
+    height: 938px;
+    position: absolute;
+    top: 2398px;
+    left: 0px;
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Đặt các phần tử theo chiều dọc */
+    align-items: center; /* Căn giữa các phần tử theo chiều ngang */
+    text-align: center;
+}
+
+  
+.APTSE{
+    width: 600px;
+    height: 116.31px;
+    display: inline-block;
+    
+    margin-top: 237.61px;
+    
+}
+.title4{
+    width: 600px;
+    height: 48px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: center;
+    color:  #091133;
+    margin: 0px;
+    
+}
+.p4{
+    width: 600px;
+    height: 78px;
+    position: absolute;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #6F7CB2;
+}
+.dollar{
+    width: 350px;
+    height: 66px;
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #222F65;
+    display: inline-block;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+
+.design{
+    width: 350px;
+    height: 26px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #37447E;
+    display: inline-block;
+
+}
+.see{
+    width: 350px;
+    height: 24px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #5D6970;
+    margin-top: 100px;
+    display: inline-block;
+
+}
+.purchasenow2{
+    width: 189px;
+    height: 32px;
+    display: inline-block;
+    margin-top: 0px;
+    background: #111B47;
+
+}
+.texttext2{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-align: center;
+
+    
+}
+
+/* */
+
+.footer{
+    width: 1440px;
+    height: 216px;
+    position: absolute;
+    top: 3202.61px;
+    background: #E7ECFF;
+    left: 0px;
+    z-index: 1;
+}
+hr{
+    width: 1110px;
+    height: 1px;
+
+    position: absolute;
+    left: 11.46%;
+    right: 11.46%;
+    top: 72.2%;
+    bottom: 27.77%;
+    border: 0px;
+    margin: 0px;
+    background: #CDD1D4;
+}
+
+.nav2{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links2{
+    width: 245px;
+    height: 24px;
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    
+    position: absolute; /* Cho phép điều chỉnh top/left */
+    top: 174px;
+    left: 165px;
+}
+.nav-links2 li a {
+    color: #505F98;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-decoration: none;
+}
+.logo2{
+    width: 79px;
+    height: 38px;
+    position: absolute; 
+    display: inline-block;
+    margin-top: 878px;
+    z-index: 2;
+}
+.landing2{
+    width: 95px;
+    height: 38px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 38px;
+    margin: 0px;
+    text-align: left;
+    color: #37447E;
+    display: inline-block;
+    z-index: 2;
+
+}
+.purchasenow3{
+    
+    background: #111B47;
+    width: 109px;
+    height: 26px;
+    position: absolute;
+    top: 85px;
+    left: 1166px;
+    text-align: center;
+}
+.texttext3{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #FFFFFF;
+    display: inline-block;
+}
+.company{
+    width: 133px;
+    height: 24px;
+    position: absolute;
+    top: 85px;
+    left: 165px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #939EA4;
+}
+.share{
+    width: 245px;
+    height: 24px;
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    gap: 25px;
+    position: absolute; /* Cho phép điều chỉnh top/left */
+    top: 174px;
+    left: 1110px;
+}
+.share li  {
+
+    text-align: left;
+    text-decoration: none;
+}
+.wave{
+    position: absolute;
+    z-index: -1;
+}
