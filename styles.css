@@ -1,4 +1,4 @@
-/* Reset default browser styles */
+
 
 /*  */
 .page1{
@@ -29,7 +29,7 @@ header{
     list-style: none;
     padding: 0px;
     
-    position: absolute; /* Cho phép điều chỉnh top/left */
+    position: absolute; 
     top: 18px;
     left: 165px;
 }
@@ -92,7 +92,7 @@ header{
     border: none;
     width: 160px;
     height: 26px;
-    position: absolute; /* Cho phép điều chỉnh top/left */
+    position: absolute;
     top: 18px;
     left: 1115px;
     z-index: 2;
@@ -100,7 +100,7 @@ header{
 .text{
     width: 160px;
     height: 18px;
-    position: absolute; /* Cho phép điều chỉnh top/left */
+    position: absolute; 
     top: 4px;
     z-index: 2;
 
@@ -396,15 +396,15 @@ header{
 }
 /* hết trang 3*/
 .pricing{
-    width: /*2546.93px;*/ 1440px;
+    width: 1440px;
     height: 938px;
     position: absolute;
     top: 2398px;
     left: 0px;
     text-align: center;
     display: flex;
-    flex-direction: column; /* Đặt các phần tử theo chiều dọc */
-    align-items: center; /* Căn giữa các phần tử theo chiều ngang */
+    flex-direction: column; 
+    align-items: center;
     text-align: center;
 }
 
@@ -537,7 +537,7 @@ hr{
     list-style: none;
     padding: 0px;
     
-    position: absolute; /* Cho phép điều chỉnh top/left */
+    position: absolute;
     top: 174px;
     left: 165px;
 }
@@ -610,7 +610,7 @@ hr{
     list-style: none;
     padding: 0px;
     gap: 25px;
-    position: absolute; /* Cho phép điều chỉnh top/left */
+    position: absolute; 
     top: 174px;
     left: 1110px;
 }
